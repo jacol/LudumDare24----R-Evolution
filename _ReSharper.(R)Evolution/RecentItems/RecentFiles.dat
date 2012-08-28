@@ -1,0 +1,51 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/d:Wall/f:WallOrientation.cs" caret="188" fromTop="9" />
+    <File id="2D270748-23E6-4CE1-9EE6-674D8CC06AE5/f:SpriteFont.spritefont" caret="0" fromTop="0" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/f:MonsterType.cs" caret="177" fromTop="10" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:MoveDirection.cs" caret="195" fromTop="9" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:LabRevolutionMaker.cs" caret="128" fromTop="4" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/d:Wall/f:Wall.cs" caret="987" fromTop="21" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/f:Revolution.cs" caret="1860" fromTop="5" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:BombDestructor.cs" caret="688" fromTop="16" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:Helpers/f:Logger.cs" caret="474" fromTop="13" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/f:Program.cs" caret="0" fromTop="0" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:WallCollisionVerifier.cs" caret="4445" fromTop="60" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/d:Hero/f:HeroPlayer.cs" caret="3827" fromTop="20" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/f:Border.cs" caret="2461" fromTop="29" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:LabFactory.cs" caret="629" fromTop="6" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/f:Monster.cs" caret="4435" fromTop="30" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:MoveDirection.cs" caret="195" fromTop="9" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:BombDestructor.cs" caret="408" fromTop="12" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/d:Wall/f:Wall.cs" caret="1248" fromTop="1" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/d:Wall/f:Wall.cs" caret="1106" fromTop="29" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/d:Wall/f:Wall.cs" caret="2323" fromTop="32" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/d:Wall/f:Wall.cs" caret="819" fromTop="14" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/d:Wall/f:Wall.cs" caret="537" fromTop="5" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/f:Revolution.cs" caret="789" fromTop="24" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:LabFactory.cs" caret="1309" fromTop="26" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:LabFactory.cs" caret="634" fromTop="6" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:WallCollisionVerifier.cs" caret="498" fromTop="17" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:LabRevolutionMaker.cs" caret="501" fromTop="18" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/d:Hero/f:HeroPlayer.cs" caret="3850" fromTop="20" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:BombDestructor.cs" caret="604" fromTop="15" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:BombDestructor.cs" caret="1083" fromTop="23" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:BombDestructor.cs" caret="1356" fromTop="22" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/f:Revolution.cs" caret="2576" fromTop="19" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:WallCollisionVerifier.cs" caret="4723" fromTop="29" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/f:Monster.cs" caret="2007" fromTop="6" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/f:Monster.cs" caret="2858" fromTop="19" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/f:Monster.cs" caret="445" fromTop="7" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:BombDestructor.cs" caret="351" fromTop="3" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:BombDestructor.cs" caret="1284" fromTop="26" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameMechs/f:BombDestructor.cs" caret="955" fromTop="19" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/f:Monster.cs" caret="2740" fromTop="24" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/f:Monster.cs" caret="3779" fromTop="26" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/f:Monster.cs" caret="4428" fromTop="35" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/f:Monster.cs" caret="3285" fromTop="18" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/f:Monster.cs" caret="3777" fromTop="26" />
+    <File id="FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E/d:GameObjects/f:Monster.cs" caret="4435" fromTop="30" />
+  </RecentEdits>
+</RecentFiles>

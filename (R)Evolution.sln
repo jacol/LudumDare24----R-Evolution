@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "(R)Evolution", "(R)Evolution\(R)Evolution\(R)Evolution.csproj", "{FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "(R)EvolutionContent", "(R)Evolution\(R)EvolutionContent\(R)EvolutionContent.contentproj", "{2D270748-23E6-4CE1-9EE6-674D8CC06AE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E}.Debug|x86.ActiveCfg = Debug|x86
+		{FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E}.Debug|x86.Build.0 = Debug|x86
+		{FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E}.Release|x86.ActiveCfg = Release|x86
+		{FDF432C0-2D04-4B1D-8FEC-BF39DD547C3E}.Release|x86.Build.0 = Release|x86
+		{2D270748-23E6-4CE1-9EE6-674D8CC06AE5}.Debug|x86.ActiveCfg = Debug|x86
+		{2D270748-23E6-4CE1-9EE6-674D8CC06AE5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
